@@ -1,0 +1,106 @@
+﻿@model IEnumerable<TheGuiXeCho.Web.Entity.Vehicles>
+@{
+    Layout = "~/Views/Layout/Layout.cshtml";
+    ViewData["Title"] = "Danh sách xe";
+}
+<style>
+    .vehicle-list {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+        .vehicle-list h2 {
+            color: #1e3a8a;
+            margin-bottom: 20px;
+        }
+
+    .table-wrapper {
+        overflow-x: auto;
+    }
+
+    .styled-table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 1px 10px rgba(0,0,0,0.05);
+    }
+
+        .styled-table th, .styled-table td {
+            padding: 14px;
+            text-align: center;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .styled-table th {
+            background-color: #f8fafc;
+            font-weight: 600;
+        }
+
+    .badge {
+        padding: 6px 10px;
+        border-radius: 4px;
+        font-weight: 500;
+        display: inline-block;
+    }
+
+        .badge.in {
+            background-color: #bbf7d0;
+            color: #15803d;
+        }
+
+        .badge.out {
+            background-color: #fee2e2;
+            color: #b91c1c;
+        }
+</style>
+
+<section class="vehicle-list">
+    <h2>📋 Danh sách xe đang gửi</h2>
+    <div class="table-wrapper">
+        <table class="styled-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Biển số</th>
+                    <th>Loại xe</th>
+                    <th>Thời gian vào</th>
+                    <th>Trạng thái</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    int i = 1;
+                    foreach (var xe in Model)
+                    {
+                        <tr>
+                            <td>@i</td>
+                            <td>@xe.PlateNumber</td>
+                            <td>@xe.VehicleType</td>
+                            <td>@xe.TimeIn?.ToString("HH:mm")</td>
+                            <td>
+                                @if (xe.TimeOut == null)
+                                {
+                                    <span class="badge in">Đang gửi</span>
+                                }
+                                else
+                                {
+                                    <span class="badge out">Đã rời</span>
+                                }
+                            </td>
+                        </tr>
+                        i++;
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5">Không có dữ liệu</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
