@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\controllers\\vehicalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\controllers\\vehicalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\vehicals\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\views\\vehicals\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\vehicals\\danhsachxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\views\\vehicals\\danhsachxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\interface\\ivehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\interface\\ivehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\entity\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\entity\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\vehicals\\taoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\views\\vehicals\\taoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\controllers\\vehicalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\controllers\\vehicalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\vehicals\\danhsachxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\views\\vehicals\\danhsachxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,22 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\services\\vehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\entity\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\entity\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\interface\\ivehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\interface\\ivehiclesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\views\\vehicals\\taoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|solutionrelative:theguixecho.web\\views\\vehicals\\taoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E28926A-EF87-421D-A486-D209625723BA}|TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj|d:\\c sharp\\cnpmth\\theguixecho\\theguixecho.web\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ChiTietXe.cshtml",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\ChiTietXe.cshtml",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Vehicals\\ChiTietXe.cshtml",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\ChiTietXe.cshtml",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Vehicals\\ChiTietXe.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T10:16:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Account\\Register.cshtml",
@@ -123,85 +140,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "TheGuiXeCho.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T09:43:02.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T09:15:55.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DanhSachXe.cshtml",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T09:39:17.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TheGuiXeChoDbContext.cs",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:37:48.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\appsettings.json",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\appsettings.json",
-              "RelativeToolTip": "TheGuiXeCho.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-01T09:35:40.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "TheGuiXeCho.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T09:05:09.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "VehiclesService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Services\\VehiclesService.cs",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Services\\VehiclesService.cs",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Services\\VehiclesService.cs",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Services\\VehiclesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:43:02.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Entity\\Vehicles.cs",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Entity\\Vehicles.cs",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Entity\\Vehicles.cs",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Entity\\Vehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:56:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicalsController.cs",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:25:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehiclesService.cs",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:10:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachXe.cshtml",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Vehicals\\DanhSachXe.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwF4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T09:39:17.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaoXe.cshtml",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T09:47:09.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Services\\UserService.cs",
@@ -214,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Auth\\Login.cshtml",
@@ -227,32 +270,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VehicalsController.cs",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Controllers\\VehicalsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:25:28.534Z",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\appsettings.json",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\appsettings.json",
+              "RelativeToolTip": "TheGuiXeCho.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T09:35:40.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IVehiclesService.cs",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Interface\\IVehiclesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAtAAAAAAAAAA==",
+              "Title": "TheGuiXeChoDbContext.cs",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Data\\TheGuiXeChoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:10:33.787Z"
+              "WhenOpened": "2025-07-01T09:37:48.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T09:15:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Interface\\IUserService.cs",
@@ -265,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Entity\\User.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Entity\\User.cs",
@@ -277,31 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Vehicles.cs",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Entity\\Vehicles.cs",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Entity\\Vehicles.cs",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Entity\\Vehicles.cs",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Entity\\Vehicles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:56:53.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VehiclesService.cs",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Services\\VehiclesService.cs",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Services\\VehiclesService.cs",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Services\\VehiclesService.cs",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Services\\VehiclesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T08:43:02.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Layout.cshtml",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Layout\\Layout.cshtml",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Layout\\Layout.cshtml",
@@ -313,19 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TaoXe.cshtml",
-              "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
-              "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
-              "ToolTip": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
-              "RelativeToolTip": "TheGuiXeCho.Web\\Views\\Vehicals\\TaoXe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-08T09:47:09.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "screen.css",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\css\\screen.css",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\css\\screen.css",
@@ -337,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\Program.cs",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\Program.cs",
@@ -350,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TheGuiXeCho.Web.csproj",
               "DocumentMoniker": "D:\\C Sharp\\CNPMTH\\TheGuiXeCho\\TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj",
               "RelativeDocumentMoniker": "TheGuiXeCho.Web\\TheGuiXeCho.Web.csproj",

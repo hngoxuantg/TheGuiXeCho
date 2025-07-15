@@ -67,10 +67,11 @@
                     <th>Loại xe</th>
                     <th>Thời gian vào</th>
                     <th>Trạng thái</th>
+                    <th>Chi tiết xe</th>
                 </tr>
             </thead>
             <tbody>
-                @if (Model != null)
+                @if (Model != null && Model.Any())
                 {
                     int i = 1;
                     foreach (var xe in Model)
@@ -79,7 +80,7 @@
                             <td>@i</td>
                             <td>@xe.PlateNumber</td>
                             <td>@xe.VehicleType</td>
-                            <td>@xe.TimeIn?.ToString("HH:mm")</td>
+                            <td>@xe.TimeIn?.ToString("HH:mm dd/MM/yyyy")</td>
                             <td>
                                 @if (xe.TimeOut == null)
                                 {
@@ -90,6 +91,9 @@
                                     <span class="badge out">Đã rời</span>
                                 }
                             </td>
+                            <td>
+                                <a href="/Vehicals/ChiTietXe/@xe.Id">Xem</a>
+                            </td>
                         </tr>
                         i++;
                     }
@@ -97,7 +101,7 @@
                 else
                 {
                     <tr>
-                        <td colspan="5">Không có dữ liệu</td>
+                        <td colspan="6">Không có dữ liệu</td>
                     </tr>
                 }
             </tbody>

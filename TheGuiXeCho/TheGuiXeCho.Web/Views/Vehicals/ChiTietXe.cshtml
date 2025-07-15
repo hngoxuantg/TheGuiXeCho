@@ -1,0 +1,98 @@
+﻿@model TheGuiXeCho.Web.Entity.Vehicles
+@{
+    Layout = "~/Views/Layout/Layout.cshtml";
+    ViewData["Title"] = "Chi tiết xe";
+}
+
+<style>
+    .vehicle-details {
+        max-width: 600px;
+        margin: 30px auto;
+        padding: 20px;
+        background-color: #f9fafb;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+
+        .vehicle-details h2 {
+            text-align: center;
+            color: #1e3a8a;
+            margin-bottom: 20px;
+        }
+
+        .vehicle-details table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+
+        .vehicle-details td {
+            padding: 12px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .vehicle-details .actions {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .vehicle-details .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 5px;
+        }
+
+    .btn-confirm {
+        background-color: #16a34a;
+        color: white;
+    }
+
+    .btn-back {
+        background-color: #1e3a8a;
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        line-height: 38px;
+    }
+</style>
+
+<div class="vehicle-details">
+    <h2>🚗 Chi tiết xe</h2>
+
+    <table>
+        <tr>
+            <td><strong>ID:</strong></td>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <td><strong>Biển số:</strong></td>
+            <td>@Model.PlateNumber</td>
+        </tr>
+        <tr>
+            <td><strong>Loại xe:</strong></td>
+            <td>@Model.VehicleType</td>
+        </tr>
+        <tr>
+            <td><strong>Giờ vào:</strong></td>
+            <td>@(Model.TimeIn?.ToString("HH:mm dd/MM/yyyy") ?? "Chưa vào")</td>
+        </tr>
+        <tr>
+            <td><strong>Giờ ra:</strong></td>
+            <td>@(Model.TimeOut?.ToString("HH:mm dd/MM/yyyy") ?? "Chưa rời")</td>
+        </tr>
+    </table>
+
+    <div class="actions">
+        @using (Html.BeginForm("XacNhanXe", "Vehicals", FormMethod.Post, new { @style = "display:inline;" }))
+        {
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn btn-confirm">✅ Xác nhận xe</button>
+        }
+
+        <a asp-action="DanhSachXe" class="btn btn-back">⬅ Quay lại danh sách</a>
+    </div>
+</div>

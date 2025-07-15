@@ -15,6 +15,7 @@ namespace TheGuiXeCho.Web.Controllers
         {
             return View(await vehiclesService.GetAll());
         }
+
         public IActionResult TaoXe()
         {
             return View();
@@ -22,12 +23,32 @@ namespace TheGuiXeCho.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> TaoXe(string plate, string vehicleType, DateTime timeIn)
         {
-            if(await vehiclesService.MotorbikeAdd(plate, vehicleType, timeIn))
+            if (await vehiclesService.MotorbikeAdd(plate, vehicleType, timeIn))
             {
                 return RedirectToAction("DanhSachXe");
             }
             ModelState.AddModelError("", "Failed to add vehicle.");
             return RedirectToAction("DanhSachXe");
+        }
+        [HttpPost]
+        public async Task<IActionResult> XacNhanXe(int id)
+        {
+            var vehicle = await vehiclesService.ConfirmMotorbike(id);
+            if (vehicle != null)
+            {
+                return RedirectToAction("DanhSachXe");
+            }
+            ModelState.AddModelError("", "Failed to confirm vehicle.");
+            return RedirectToAction("DanhSachXe");
+        }
+        public IActionResult ChiTietXe(int id)
+        {
+            var vehicle = vehiclesService.GetVehicleById(id).Result;
+            if (vehicle == null)
+            {
+                return NotFound();
+            }
+            return View(vehicle);
         }
     }
 }
