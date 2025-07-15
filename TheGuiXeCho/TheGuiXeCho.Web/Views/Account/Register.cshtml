@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Layout/Layout.cshtml";
+    ViewData["Title"] = "Register";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label>Username:</label>
+        <input type="text" name="userName" required />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input type="password" name="password" required />
+    </div>
+    <div>
+        <label>Full Name:</label>
+        <input type="text" name="fullName" required />
+    </div>
+    <button type="submit">Register</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color: red;">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

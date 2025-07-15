@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheGuiXeCho.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+849710584ec2165e1024535e7e566a7140ee6445")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ed0a187589bfcf41c80d59f793984187dc8889")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheGuiXeCho.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheGuiXeCho.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

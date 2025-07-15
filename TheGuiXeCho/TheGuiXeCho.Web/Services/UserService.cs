@@ -31,7 +31,7 @@ namespace TheGuiXeCho.Web.Services
                 FullName = fullName
             };
             dbContext.Users.Add(user);
-            await dbContext.SaveChangesAsync();
+            await dbContext.SaveChangesAsync(cancellationToken);
             return true;
         }
     }

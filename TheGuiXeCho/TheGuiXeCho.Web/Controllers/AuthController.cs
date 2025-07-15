@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using TheGuiXeCho.Web.Entity;
 using TheGuiXeCho.Web.Interface;
-using TheGuiXeCho.Web.Services;
 
 namespace TheGuiXeCho.Web.Controllers
 {
@@ -22,10 +19,11 @@ namespace TheGuiXeCho.Web.Controllers
         {
             if (await userService.Login(userName, password))
             {
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("DanhSachXe", "Vehicals");
             }
             ModelState.AddModelError("", "Invalid username or password.");
             return RedirectToAction("Login");
         }
+        
     }
 }
